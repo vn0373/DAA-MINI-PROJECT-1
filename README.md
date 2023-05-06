@@ -1,3 +1,6 @@
+# THE SKYLINE PROBLEM APPROACHES
+
+
 #BRUTE FORCE APPROACH
 
 vector<pair<int, int>> getSkyline(vector<vector<int>>& buildings) {
@@ -43,7 +46,7 @@ return result;
 }
 
 
-# PROBABLITY QUEUE
+#PROBABLITY QUEUE
 
 vector<pair<int, int>> getSkyline(vector<vector<int>>& buildings) {
 vector<pair<int, int>> result;
